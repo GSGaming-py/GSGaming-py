@@ -1,6 +1,6 @@
 - 👋 Hey, Welcome,
 My Name ist Gerrit but you can call me Tobi!
-- 👀 I’m interested in Gaming, Python and everythin inbetween
+- 👀 I’m interested in Gaming, Python and everything inbetween
 - 🌱 I’m currently learning Python, C++, lua, SQL
 - 💞️ I’m looking to collaborate on erverythin where i can Help ;D
 - 📫 How to reach me just write me Discord DM and Done! Tobi_xD#3622
